@@ -28,7 +28,7 @@ jobs:
         run: npm ci
 
       - name: Build Angular application
-        run: npm run build -- --configuration production
+        run: npm run build -- --configuration production --base-href /deepak-portfolio/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
