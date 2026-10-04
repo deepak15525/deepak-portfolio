@@ -1,0 +1,16 @@
+{
+  "name": "Deepak Jaiswal",
+  "title": "Senior Software Analyst — Full-stack & Cloud",
+  "summary": "Product-minded full-stack engineer with cloud, backend, and UI expertise. I build complete digital systems—from user-facing interfaces to backend services, APIs, and cloud deployment— with a focus on reliability, performance, and business impact.",
+  "skills": ["Angular","Vue","Node.js","AWS","Azure","DevOps","REST APIs","Cloud Architecture"],
+  "projects": [
+    {"title":"EOLAC","description":"Smart logistics and shipping platform.","link":"https://www.eolac.com/"},
+    {"title":"EZ ChildTrack","description":"Childcare management ecosystem.","link":"https://www.ezchildtrack.com/"},
+    {"title":"Infory","description":"Health and fitness product experience.","link":"https://www.infory.in/"}
+  ],
+  "experience": [
+    {"role":"Full-stack product engineer","company":"Freelance / Contract","from":"2024","to":"Present","summary":"Building scalable web products and cloud workflows."},
+    {"role":"Digital product & platform builder","company":"Previous Employer","from":"2022","to":"2024"}
+  ],
+  "contact": {"linkedin":"https://www.linkedin.com/in/deepak-jaiswal-3bb9441a4","website":"https://deepak15525.github.io/cicdpipe/"}
+}
